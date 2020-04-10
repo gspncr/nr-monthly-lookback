@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "lab0-nerdpack",
+    "version": "1.19.6",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "6b7282a2-8da8-4696-9bbb-076183688f3a"
+    },
+    "dependencies": {
+        "prop-types": "^15.6.2",
+        "react": "^16.6.3",
+        "react-dom": "^16.6.3"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ]
+}

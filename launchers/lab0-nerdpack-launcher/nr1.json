@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "lab0-nerdpack-launcher",
+    "displayName": "Monthly Lookback",
+    "description": "Describe me",
+    "rootNerdletId": "lab0-nerdpack-nerdlet"
+}
